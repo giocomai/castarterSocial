@@ -1,0 +1,10 @@
+Package: castarterSocial
+Type: Package
+Title: castarterSocial extends castarter to allow extracting contents from social media
+Version: 0.1.0
+Author: Giorgio Comai
+Maintainer: Giorgio Comai <giorgiocomai@gmail.com>
+Description: castarterSocial is an extension to the 'castarter' package that facilitates extraction of contents from social media (e.g. Twitter, YouTube) and store data in a format that is compatible with other 'castarter' functions.
+License: GPL-3
+LazyData: TRUE
+Imports: castarter
